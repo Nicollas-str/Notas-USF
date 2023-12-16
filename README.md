@@ -37,6 +37,8 @@ AVALIAÇÃO = Coluna que contém o nome das colunas das 4 provas
 
 ### Resumo do objetivo.
 
+Link do DASHBOARD: https://lookerstudio.google.com/reporting/3e026a98-66a5-4c6e-b4a1-14087c3d5afc
+
 O objetivo principal passado pela Universidade foi obrigatóriamente utilizar o calculo da média final e uma função CASE para avaliar a aprovação do aluno. Levando isso em conta fiz o dashboard em duas partes, a primeira eu usei a média e fiz uma visão geral das notas me baseando pelas turmas e abaixo adicionei a média final de cada aluno individualmente e a nota de cada aluno individualmente mas com os resultados das 4 provas.
 
 ![Screenshot_6](https://github.com/Nicollas-str/Notas-USF/assets/131723944/0acaa9ea-de31-4d95-88d2-33c4861f5b3c)
