@@ -1,7 +1,7 @@
 # Criação do dashboard para análise de alunos aprovados, reprovador e notas dos mesmos.
 ## Dashboard feito como um projeto da USF(Universidade São Franscisco) utilizando dados de notas de alunos ficticios.
 
-Esse é meu primeiro projeto tanto com dashboards quanto utilizando Google Looker Studio, esse projeto foi um incentivo à prática do que aprendemos na USF, e os dados e o conhecimento necessário para a criação desse projeto foi fornecido por eles.
+Esse é meu primeiro projeto tanto com dashboards quanto utilizando Google Looker Studio, esse projeto foi um incentivo à prática do que aprendemos na USF, e os dados e o conhecimento necessário para a criação desse projeto foram fornecidom por eles.
 
 Sabendo disso primeiramente fiz a análise de todos os dados que eu tinha em mãos e eles foram entregues limpos e organizados, após isso fui para o Google Looker Studio para fazer a criação do dashboard.
 
